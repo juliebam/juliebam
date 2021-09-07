@@ -1,17 +1,17 @@
 Hi there, I'm Julie  👋🏻
 
-💻Front End Developer
+💻Front End Developer</br>
 🌎 Based in Toronto, Canada
 
- 🔭 I’m currently working on:
+ 🔭 I’m currently working on:</br>
 
-Private "youtube" app that would allow users to upload and share personal videos on a secure platform.
-This project is currently in wireframe/prototype stage and will be built with React, Redux and Firebase.
+Private "youtube" app that would allow users to upload and share personal videos on a secure platform.</br>
+This project is currently in wireframe/prototype stage and will be built with React, Redux and Firebase.</br>
 
-🌱I'm Currently learning:
-React
-Redux
-Firebase
-Styled-components
-Blueprint.js
+🌱I'm Currently learning:</br>
+React</br>
+Redux</br>
+Firebase</br>
+Styled-components</br>
+Blueprint.js</br>
 
