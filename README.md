@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there, I'm Julie  👋🏻
 
-<!--
-**juliebam/juliebam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻Front End Developer
+🌎 Based in Toronto, Canada
 
-Here are some ideas to get you started:
+ 🔭 I’m currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Private "youtube" app that would allow users to upload and share personal videos on a secure platform.
+This project is currently in wireframe/prototype stage and will be built with React, Redux and Firebase.
+
+🌱I'm Currently learning:
+React
+Redux
+Firebase
+Styled-components
+Blueprint.js
+
