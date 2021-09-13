@@ -12,6 +12,5 @@ This project is currently in wireframe/prototype stage and will be built with Re
 React</br>
 Redux</br>
 Firebase</br>
-Styled-components</br>
 Blueprint.js</br>
 
